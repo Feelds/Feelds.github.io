@@ -1,0 +1,17 @@
+
+h3 {
+	text-align: center;
+}
+
+h3 a {
+    padding: 10px;
+	background-color: #000;
+	text-decoration: none;
+	color: #fff;
+	font-size: 2em;
+	border-radius: 10px;
+}
+
+nav {
+	z-index: 1;
+}
